@@ -20,3 +20,8 @@ So it looks like sinon, chai and mocha successfully work with stubbing functions
 # Scripts
 
 - test - runs the tests in the test file
+
+# Test it yourself 
+
+- Open terminal
+- run `git clone https://github.com/shaikegross/sinon-stub-es6-test && cd sinon-stub-es6-test && npm i && npm test`
